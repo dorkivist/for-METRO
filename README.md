@@ -1,2 +1,2 @@
 # for-METRO
-testing for METRO GitHub workshop
+testing for <b>METRO GitHub workshop</b>, August 2, 2017
